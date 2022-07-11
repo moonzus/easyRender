@@ -1,0 +1,18 @@
+﻿  Reading Qt configuration (D:/Qt/5.12.3/msvc2017_64/bin/qmake)
+  moc MainWindow.h
+  moc renderRoute.h
+  baseShader.cpp
+  camera.cpp
+  FrameBuffer.cpp
+  Light.cpp
+  maths.cpp
+  pipeLine.cpp
+  polygon.cpp
+  renderRoute.cpp
+  textures.cpp
+  MainWindow.cpp
+  main.cpp
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  moc_renderRoute.cpp
+  easySoftRender.vcxproj -> D:\C++project\easySoftRender\x64\Release\easySoftRender.exe
